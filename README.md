@@ -46,4 +46,4 @@ Once the fields have been updated, simply close the file and launch the AEDEmail
 
 # Advanced
 
-Once you have confirmed that the application is working, you may wish to install the application as a service on your local server.
+Once you have confirmed that the application is working, you may wish to install the application as a service on your local server. NSSM is a good option for doing so.
