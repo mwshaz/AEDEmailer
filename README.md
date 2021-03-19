@@ -44,7 +44,7 @@ The purpose of this application is to continually scan a directory for new files
 
 Once the fields have been updated, simply close the file and launch the AEDEmailer.exe application
 
-#Configuring with AED software
+# Configuring with AED software
 
 Simply point your software's root report download directory to the scan folder that was configured earlier.
 
